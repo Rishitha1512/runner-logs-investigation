@@ -40,6 +40,5 @@ The API provides a health check endpoint at `GET /health`.
   "version": "1.0.0"
 }
 ```
-
 ---
 This repository is part of Lesson 2.4 — Investigating GitHub Actions Runner Logs.
